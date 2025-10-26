@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+out/
+build/
+dataset/train/*.bin
+dataset/validate/*.bin
+*.wav
+*.mp3
+*.zip
+
